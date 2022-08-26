@@ -11,6 +11,21 @@
     border-bottom: 0.5ex solid #008800;
 }
 
+a:link {
+  color: #008800;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #006600;
+  text-decoration: none;
+}
+
+a:hover a:selected {
+  text-decoration: underline;;
+}
+
+
 h1#page-title {
     visibility: hidden;
     height: 0px;
