@@ -9,12 +9,12 @@ author_profile: false
 
 Background: The Software Engineering Research Quality Coalition
 (SERQco, pronounced “Sirco”) works based on the perception that many
-em-pirical SE research contributions have (some aspects of) avoidably
+empirical SE research contributions have (some aspects of) avoidably
 low quality.  
 Objective: SERQco creates evidence of research quality issues and
 makes suggestions how to improve.  
 Method: SERQco operationalizes reasonable lower bounds for some
-aspects of research qual-ity and then measures research quality over
+aspects of research quality and then measures research quality over
 many published empirical SE research articles.
 
 
