@@ -3,7 +3,8 @@ layout: single
 ---
 ## SERQco members
 
-as of 2023-03-10
+as of 2023-03-10,
+in alphabetical order:
 
 - [Sebastian Baltes](https://empirical-software.engineering/),
   SAP SE, Germany, and University of Adelaide, Australia.
@@ -11,6 +12,8 @@ as of 2023-03-10
   University of Oslo, Norway
 - [Souti Chattopadhyay](https://web.engr.oregonstate.edu/~chattops/),
   Oregon State University/University of Southern California, USA
+- [Julian Frattini](https://www.bth.se/eng/staff/julian-frattini-juf/),
+  Blekinge Institute of Technology, Sweden
 - [Brittany Johnson](),
   George Mason University, Washington D.C., USA.
 - [Lloyd Montgomery](https://lloydm.io), 
@@ -31,5 +34,5 @@ as of 2023-03-10
   University of Oslo, Norway
 - [Margaret-Anne Storey](https://www.margaretstorey.com/),
   University of Victoria, Canada
-- [Julian Frattini](https://www.bth.se/eng/staff/julian-frattini-juf/),
+- [Franz Zieris](https://www.zieris.net),
   Blekinge Institute of Technology, Sweden
