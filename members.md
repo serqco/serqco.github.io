@@ -3,7 +3,7 @@ layout: single
 ---
 ## SERQco members
 
-as of 2023-03-10
+as of 2023-09-11
 
 - [Sebastian Baltes](https://empirical-software.engineering/),
   SAP SE, Germany, and University of Adelaide, Australia.
@@ -35,3 +35,5 @@ as of 2023-03-10
   University of Victoria, Canada
 - [Franz Zieris](https://www.zieris.net),
   Blekinge Institute of Technology, Sweden
+- [Carolin Brandt](https://carolin-brandt.de/),
+  Delft University of Technology, Netherlands.
