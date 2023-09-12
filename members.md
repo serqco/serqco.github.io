@@ -7,6 +7,8 @@ as of 2023-09-11
 
 - [Sebastian Baltes](https://empirical-software.engineering/),
   SAP SE, Germany, and University of Adelaide, Australia.
+- [Carolin Brandt](https://carolin-brandt.de/),
+  Delft University of Technology, Netherlands.
 - [Gunnar Bergersen](https://www.mn.uio.no/ifi/personer/vit/gunnab/),
   University of Oslo, Norway
 - [Souti Chattopadhyay](https://web.engr.oregonstate.edu/~chattops/),
@@ -35,5 +37,3 @@ as of 2023-09-11
   University of Victoria, Canada
 - [Franz Zieris](https://www.zieris.net),
   Blekinge Institute of Technology, Sweden
-- [Carolin Brandt](https://carolin-brandt.de/),
-  Delft University of Technology, Netherlands.
