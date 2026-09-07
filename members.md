@@ -5,16 +5,16 @@ layout: single
 
 as of 2023-09-11
 
-- [Sebastian Baltes](https://empirical-software.engineering/),
-  SAP SE, Germany, and University of Adelaide, Australia.
+- [Sebastian Baltes](https://se-uhd.de/),
+  Heidelberg University, Germany.
 - [Carolin Brandt](https://carolin-brandt.de/),
   Delft University of Technology, Netherlands.
 - [Gunnar Bergersen](https://www.mn.uio.no/ifi/personer/vit/gunnab/),
   University of Oslo, Norway
 - [Souti Chattopadhyay](https://web.engr.oregonstate.edu/~chattops/),
   Oregon State University/University of Southern California, USA
-- [Julian Frattini](https://www.bth.se/eng/staff/julian-frattini-juf/),
-  Blekinge Institute of Technology, Sweden
+- [Julian Frattini](https://www.chalmers.se/en/persons/julfrat/)),
+  Chalmers University of Technology, Sweden
 - [Brittany Johnson](),
   George Mason University, Washington D.C., USA.
 - [Lloyd Montgomery](https://lloydm.io), 
