@@ -13,7 +13,7 @@ as of 2023-09-11
   University of Oslo, Norway
 - [Souti Chattopadhyay](https://web.engr.oregonstate.edu/~chattops/),
   Oregon State University/University of Southern California, USA
-- [Julian Frattini](https://www.chalmers.se/en/persons/julfrat/)),
+- [Julian Frattini](https://www.chalmers.se/en/persons/julfrat/),
   Chalmers University of Technology, Sweden
 - [Brittany Johnson](),
   George Mason University, Washington D.C., USA.
